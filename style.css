@@ -1,0 +1,48 @@
+#logo{
+    font-size: 5rem;
+ position: absolute;
+ margin: 0rem 0rem;
+ padding: 0rem 0rem;
+ margin: 0rem;
+ margin-left: 0rem;
+ margin-right: 0rem;
+ top: 0px !important;
+ left: 0px !important;
+ width: 25rem !important;
+ height: 25rem !important;
+display:inline-block;
+}
+body{
+    background: url(/pexels-pixabay-39284.jpg);
+}
+
+a{
+    color: white;
+    text-decoration: none;
+font-size: 2rem;
+margin: 2rem;
+font-family: "Pattaya", sans-serif;
+text-align: center;
+justify-content: center;
+align-items: center;
+position: relative;
+}
+nav{
+display: flex;
+position: absolute; 
+margin: 8rem;
+background: #343c44;
+margin: 0rem ;
+height: 8rem;
+justify-content: center;
+align-items: center;
+position: absolute;
+display: flex;
+padding:0rem ;
+position: relative;
+font-family: "Honk", sans-serif;
+font-size: 3rem;
+margin:0rem;
+margin-left: 0rem;
+}
+
